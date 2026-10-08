@@ -1,0 +1,6 @@
+{
+  "name": "Chokopatty",
+  "description": "Detalles llenos de amor y mucha magia que hacen sonreír. Mini donas artesanales con toppings y regalos personalizados en Gerindote y Torrijos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
